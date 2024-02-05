@@ -40,6 +40,11 @@
   border-width: 3px;
 }
 
+#tindog {
+  font-family: 'Ubuntu', sans-serif;
+  font-size:x-large;
+}
+
 
 /* Custom Gradient Background */
 
@@ -62,4 +67,6 @@
   100% {
     background-position: 0% 50%;
   }
+
+  
 }
